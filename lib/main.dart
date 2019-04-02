@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 import './register.dart';
+//oklart om ^det ska med
+
 void main() => runApp(MyApp());
 
 class MyApp extends StatefulWidget {
